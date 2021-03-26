@@ -1,7 +1,7 @@
 # Construir Imagem
 
-`$ docker build -t i-discovery-service .`
+`$ docker build -t discovery-service .`
 
 # Rodar Container
 
-`$ docker run -d -p 8761:8761 i-discovery-service --name c-discovery-service`
+`$ docker run -d -p 8761:8761 discovery-service --name discovery-service`
