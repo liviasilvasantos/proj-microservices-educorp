@@ -1,6 +1,6 @@
 # Construir Imagem
 
-`$ docker build -t i-discovery-service .
+`$ docker build -t i-discovery-service .`
 
 # Rodar Container
 
